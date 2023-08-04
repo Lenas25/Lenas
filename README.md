@@ -51,14 +51,15 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
-
+<!--
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
-
+-->
 ## Operating Systems
+
 <p>
 	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
@@ -96,7 +97,7 @@
 
 ## Connect with Me
 
-
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -110,5 +111,6 @@
 <a href="http://twitter.com/jaydeep__Yadav_"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
+-->
 <br>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
