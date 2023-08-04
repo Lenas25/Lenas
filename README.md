@@ -1,10 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
-
-<br>
-
-<p align="right"> ![](https://komarev.com/ghpvc/?username=hypeboy&color=dc143c)
-  </p>
+<h1 align="center">Hi 👋, I'm Elena Suarez</h1>
 
 <br>
 
@@ -12,9 +6,9 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **esuarez0104@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Food and Music🎵 are the reasons to live.
 <br>
 
 ## Who am I?
@@ -51,13 +45,11 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
-<!--
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
--->
 ## Operating Systems
 
 <p>
