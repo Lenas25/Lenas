@@ -14,23 +14,22 @@
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
+ 	user = 'Lenas'
+	current_edu = "Technological University of Peru"
 	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Playing Videogames',
+				'Watching films',
+				'Learning about Web Development'
+				'Being in the nature'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Peru()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		LearnKorean()
+		CreateWebPages()
+		AritificialInteligence()
 	
  ```
  
