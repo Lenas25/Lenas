@@ -27,7 +27,6 @@
 		return Peru()
 	
 	def Ambitions():
-		LearnKorean()
 		CreateWebPages()
 		AritificialInteligence()
 	
