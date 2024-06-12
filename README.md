@@ -40,22 +40,27 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-00C7B7.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0078D4?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-0078D4?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="#"><img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"></a>
 	
 </p>
-<!--
+
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="React" src="https://shields.io/badge/react-black?logo=react></a>
+   <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/-Next_JS-black?style=flat&logoColor=white&logo=nextdotjs&color=000000"></a>
+   <a href="#"><img alt="Flask" src="">Flask</a>
+   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green"></a>
 </p>
--->
+
 
 ## Operating Systems
 
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	
 </p>
 
 ## Browsers
