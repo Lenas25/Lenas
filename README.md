@@ -93,6 +93,9 @@
 
 ## Github Top Languages
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lenas25&theme=dark" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenas25&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+
 ## Connect with Me
 
 <!--
