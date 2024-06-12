@@ -83,6 +83,9 @@
 	
 </p>
 
+## Github Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenas25&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## Connect with Me
 
 <!--
