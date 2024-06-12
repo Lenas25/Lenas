@@ -91,15 +91,15 @@
 	<a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white"></a>
 </p>
 
-## Github Top Languages
+## Github Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lenas25&theme=dark" alt="mystreak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenas25&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+![Lenas25 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenas25&show_icons=true&theme=radical) </br>
 
 ## Connect with Me
 
 <!--
 <p align="center">
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
   <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Jaydeep-Yadav"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.snapchat.com/add/badboy5299"><img alt="Bad Boy Snapchat" title="Jaydeep Yadav SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
