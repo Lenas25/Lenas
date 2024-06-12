@@ -69,6 +69,10 @@
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"></a>
+	
 </p> 
 
 ## Software and Tools
@@ -80,7 +84,6 @@
 	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"></a>
 	<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white"></a>
 	<a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white"></a>
-	
 </p>
 
 ## Github Top Languages
