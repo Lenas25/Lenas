@@ -51,7 +51,7 @@
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
    <a href="#"><img alt="React" src="https://shields.io/badge/react-black?logo=react></a>
-   <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/-Next_JS-black?style=flat&logoColor=white&logo=nextdotjs&color=000000"></a>
+   <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/-Next_JS-black&logoColor=white&logo=nextdotjs&color=000000"></a>
    <a href="#"><img alt="Flask" src="">Flask</a>
    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green"></a>
 </p>
